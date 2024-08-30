@@ -1,0 +1,12 @@
+* {
+  font: size 40px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+input[type="checkbox"] {
+  height: 0.7em;
+  width: 5%;
+}
